@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/supriyasaha/.gradle/caches/modules-2/files-2.1/com.jakewharton/butterknife-annotations/8.6.0/48efa6f14074e1a6b16e02ac05eba3fc5c7c7ec8/butterknife-annotations-8.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="48efa6f14074e1a6b16e02ac05eba3fc5c7c7ec8">
+        <dex dex="/Users/supriyasaha/reactnativecrashtest/app/build/intermediates/pre-dexed/debug/butterknife-annotations-8.6.0_ae8a489458d4972baabf1aec4a11a39219ae5db4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/supriyasaha/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.2/25ea2e8b0c338a877313bd4672d3fe056ea78f0d/jsr305-3.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="25ea2e8b0c338a877313bd4672d3fe056ea78f0d">
+        <dex dex="/Users/supriyasaha/reactnativecrashtest/app/build/intermediates/pre-dexed/debug/jsr305-3.0.2_689cc912b3945f9f960dacea017d26bef2780b3d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/supriyasaha/.android/build-cache/049707fb75d736a89a9a08418b4fddccc1fdf4e3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d3e48e200296061415952a358fad487e129adaa">
+        <dex dex="/Users/supriyasaha/reactnativecrashtest/app/build/intermediates/pre-dexed/debug/classes_fdded2ecc368e47fa7c62609a6e8d0128b64a972.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/supriyasaha/.android/build-cache/049707fb75d736a89a9a08418b4fddccc1fdf4e3/output/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/supriyasaha/reactnativecrashtest/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_2cbaffaaf8d05f774d7c990a7798db0d3a368c17.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/supriyasaha/.android/build-cache/f6c34fcf7b29fd7e64dce581c4c86f0b7c3a5e59/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="be587097e648eabfb7f9eca23ab03369894e2d5d">
+        <dex dex="/Users/supriyasaha/reactnativecrashtest/app/build/intermediates/pre-dexed/debug/classes_a2be735a19118de95938898e66dab4030ba37612.jar" />
+    </item>
+
+</items>
